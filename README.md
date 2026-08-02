@@ -46,7 +46,6 @@ Building scalable software, exploring AI, and continuously learning modern techn
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DishaRanganath&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
