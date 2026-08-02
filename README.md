@@ -8,7 +8,7 @@
 Building scalable software, exploring AI, and continuously learning modern technologies.
 </p>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://disharanganath.github.io/Portfolio/">
 <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-6C63FF?style=for-the-badge">
 </a>
 
