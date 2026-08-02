@@ -68,7 +68,7 @@ Building scalable software, exploring AI, and continuously learning modern techn
 
 <p align="center">
 
-<a href="https://disharanganath.github.io/Portfolio/">
+<a href="https://leetcode.com/dishacodes14">
 <img src="https://skillicons.dev/icons?i=htmx" height="48"/>
 </a>
 
