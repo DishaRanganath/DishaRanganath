@@ -46,23 +46,17 @@ Building scalable software, exploring AI, and continuously learning modern techn
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+## 📊 GitHub Analytics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DishaRanganath&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DishaRanganath&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaRanganath&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaRanganath&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DishaRanganath&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DishaRanganath&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 🌍 Connect With Me
 
